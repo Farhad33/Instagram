@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C9E1A031C5B132F00F0F341 /* PhotoDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C9E1A021C5B132F00F0F341 /* PhotoDetailsViewController.swift */; };
 		1CB54A741C51DB8100087367 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CB54A731C51DB8100087367 /* AppDelegate.swift */; };
 		1CB54A761C51DB8100087367 /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CB54A751C51DB8100087367 /* PhotosViewController.swift */; };
 		1CB54A791C51DB8100087367 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CB54A771C51DB8100087367 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C9E1A021C5B132F00F0F341 /* PhotoDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoDetailsViewController.swift; sourceTree = "<group>"; };
 		1CB54A701C51DB8100087367 /* Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CB54A731C51DB8100087367 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1CB54A751C51DB8100087367 /* PhotosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 			children = (
 				1CB54A731C51DB8100087367 /* AppDelegate.swift */,
 				1CB54A751C51DB8100087367 /* PhotosViewController.swift */,
+				1C9E1A021C5B132F00F0F341 /* PhotoDetailsViewController.swift */,
 				1CD888481C51EFFB00117139 /* photoCell.swift */,
 				1CB54A771C51DB8100087367 /* Main.storyboard */,
 				1CB54A7A1C51DB8100087367 /* Assets.xcassets */,
@@ -214,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C9E1A031C5B132F00F0F341 /* PhotoDetailsViewController.swift in Sources */,
 				1CB54A761C51DB8100087367 /* PhotosViewController.swift in Sources */,
 				1CB54A741C51DB8100087367 /* AppDelegate.swift in Sources */,
 				1CD888491C51EFFB00117139 /* photoCell.swift in Sources */,
